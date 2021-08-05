@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Librarians" max_length="40" name="x_cdltd_library_librarians" type="collection">
+        <element label="Librarian 1" max_length="40" name="librarian_1" type="string"/>
+        <element label="Librarian 2" max_length="40" name="librarian_2" type="string"/>
+        <element label="Librarian 3" max_length="40" name="librarian_3" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

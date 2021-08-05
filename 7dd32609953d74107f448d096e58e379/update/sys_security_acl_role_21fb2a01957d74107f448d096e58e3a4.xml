@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 14:27:01</sys_created_on>
+        <sys_id>21fb2a01957d74107f448d096e58e3a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_library_librarians.x_cdltd_library.librarians_user</sys_name>
+        <sys_package display_value="Library" source="x_cdltd_library">7dd32609953d74107f448d096e58e379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library">7dd32609953d74107f448d096e58e379</sys_scope>
+        <sys_security_acl display_value="x_cdltd_library_librarians">a1fb2a01957d74107f448d096e58e3a0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_21fb2a01957d74107f448d096e58e3a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 14:27:01</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_library.librarians_user" name="x_cdltd_library.librarians_user">51fb2a01957d74107f448d096e58e35b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
